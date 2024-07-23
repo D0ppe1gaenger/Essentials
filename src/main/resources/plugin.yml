@@ -1,0 +1,12 @@
+name: Essentials
+version: '${project.version}'
+main: de.d0ppe1gaenger.essentials.Main
+api-version: '1.20'
+authors: [D0ppe1gaenger]
+commands:
+  heal:
+  gamemode:
+    aliases: [gm]
+  vanish:
+    aliases: [v]
+
